@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Roboto+Condensed:wght@300&display=swap');
+
+.container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 15px;
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  box-shadow: 8px 8px 10px #F3EEEA;
+}
+
+.img-cicle {
+  width: 150px;
+  border-radius: 50%;
+  border-color: #FAF4F0;
+  border-style: solid;
+}
+
+.btn-pink {
+  background-color: #EFA9AE;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn-pink:hover {
+  background-color: #D0DCD5;
+}
+
+.list-align {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-align > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.icon-pink {
+  color: #EFA9AE;
+  font-size: 40px;
+}
+
+.icon-pink:hover {
+  color: #D0DCD5;
+}
+
+h1 {
+  font-family: 'Comforter', cursive;
+  color: #D36972;
+  font-size: 50px;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #734F30;
+  font-weight: 900;
+  margin-top: 0;
+  font-size: 25px;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #FAF4F0;
+  color: #383E42;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 900;
+}
